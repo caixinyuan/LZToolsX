@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.caixinyuan.lztoolsx.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.caixinyuan.lztoolsx.MyBundle
 
 class MyApplicationService {
 
